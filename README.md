@@ -1,23 +1,56 @@
-# PaytmUIClone
+<h1 align="center">Paytm Clone</h1>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54114888/123058899-e160df00-d426-11eb-8548-a60aa26d068c.png">
+</p>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Akash-Ramjyothi/Paytm-Clone?color=yellow)
+## 📜 Description:
+Developed a Clone of the Paytm App. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs. Extensively used Dynamic Widgets to load the required Resources and Assets, also made the app highly responsive and compatible with various screen sizes
+
+## 🌎 Released Android Application:
+https://gofile.io/d/bOF5U3
+
+## 📽 Sample Demo:
 
 
-A UI clone of the Paytm App.
+## 🏗 Built With:
+- Android Studio.
+- Java.
+- XML.
+- Dynamic Widgets.
 
-Widget Used:-
-Bottom Navigation Bar,
-Navigation Drawer,
-Recycler View,
-Card View,
-Custom ListView
+## 🧪 Steps to Build locally:
+- Open Android Studio IDE.
+- Clone with `git clone https://github.com/Akash-Ramjyothi/Paytm-Clone`.
+- Select whether to run on Android Emulator or Physical Device connected with USB.
+- Run the application with `gradle assembleDebug` on command line.
 
-## Screenshots
+## 💥 How to Contribute?
 
-<img src="https://user-images.githubusercontent.com/47057254/74678681-b4bd0780-51e1-11ea-904b-24c8dd63ebff.jpg" width="200" height="350"> <img src="https://user-images.githubusercontent.com/47057254/74678714-c8686e00-51e1-11ea-9941-e9977a4332ad.jpg" width="200" height="350"> <img src="https://user-images.githubusercontent.com/47057254/74678650-a1aa3780-51e1-11ea-87cd-143219cbb721.jpg" width="200" height="350"> <img src="https://user-images.githubusercontent.com/47057254/74678725-d1f1d600-51e1-11ea-8cba-23eba1ca1b8d.jpg" width="200" height="350">
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/Paytm-Clone/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Screenshots to help me know what this Code is all about.
 
-## A Quick Demo
+## 👦 Developed By:
+<h2 align="center">Akash Ramjyothi</h2>
+<p align="center">
+  <a href="https://github.com/Akash-Ramjyothi"><img src="https://avatars.githubusercontent.com/u/54114888?v=4" width=150px height=150px /></a> 
+    
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akash.ramjyothi@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash.ramjyothi/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ☎️ PH:+91 8939928002.
+</p>
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/47057254/74680425-91e12200-51e6-11ea-9131-3447adac9873.gif)
-
-
-Youtube Link: https://youtu.be/SbyqO5m-4yc
+## 🌐 References Used:
+- https://docs.svrf.com/recipes/face-filter-android-app/
+- https://www.infoq.com/articles/android-face-filter-banuba-sdk/
+- https://www.youtube.com/watch?v=3Zu9Bd2Pwg4
+- https://heartbeat.fritz.ai/creating-an-android-app-with-snapchat-style-filters-in-7-steps-using-firebases-ml-kit-e79946e99688
