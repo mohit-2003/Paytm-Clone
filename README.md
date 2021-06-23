@@ -12,7 +12,7 @@ Developed a Clone of the Paytm App. Currently it consists only of UI elements, b
 https://gofile.io/d/bOF5U3
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/123064392-df4d4f00-d42b-11eb-8aa1-19e115823d75.mp4
 
 ## 🏗 Built With:
 - Android Studio.
