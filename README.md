@@ -6,7 +6,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Akash-Ramjyothi/Paytm-Clone?color=yellow)
 ## 📜 Description:
-Developed a Clone of the Paytm App. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs. Extensively used Dynamic Widgets to load the required Resources and Assets, also made the app highly responsive and compatible with various screen sizes
+Developed a Clone of the Paytm App. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs. Extensively used Dynamic Widgets to load the required Resources and Assets, also made the app highly responsive and compatible with various screen sizes.
 
 ## 🌎 Released Android Application:
 https://gofile.io/d/bOF5U3
@@ -50,7 +50,6 @@ https://gofile.io/d/bOF5U3
 </p>
 
 ## 🌐 References Used:
-- https://docs.svrf.com/recipes/face-filter-android-app/
-- https://www.infoq.com/articles/android-face-filter-banuba-sdk/
-- https://www.youtube.com/watch?v=3Zu9Bd2Pwg4
-- https://heartbeat.fritz.ai/creating-an-android-app-with-snapchat-style-filters-in-7-steps-using-firebases-ml-kit-e79946e99688
+- https://www.youtube.com/watch?v=J1u4VIChtBE
+- https://github.com/topics/paytm-clone
+- https://developer.paytm.com/docs/v1/android-sdk/
